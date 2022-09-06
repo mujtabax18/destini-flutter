@@ -1,16 +1,18 @@
-# destini
+# Quizzer Flutter
 
-A  Game Project
+It is my 7<sup>th</sup> flutter app while learning the flutter. It is
+challenge app given by Mentor.
 
-## Getting Started
+## Functionality:
 
-This project is a starting point for a Flutter application.
+##  It is a Game app in which it will gives you option to select and storyline goes according to your choice.
 
-A few resources to get you started if this is your first Flutter project:
+## Learning 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I have learned and Used in this Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.  Visibality
+
+## Screenshots
+
+<img src="media/image1.png" style="width:3.33914in;height:6.34962in" />
